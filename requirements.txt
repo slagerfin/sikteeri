@@ -2,7 +2,6 @@ dj-database-url==0.3.0
 Django==1.8.1
 django-auth-ldap==1.2.6
 django-contrib-comments==1.6.1
-django-debug-toolbar==1.2.1
 gunicorn==19.3.0
 Pillow==2.8.1
 psycopg2==2.6
